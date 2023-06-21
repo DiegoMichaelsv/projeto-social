@@ -43,3 +43,7 @@ iframe#tela{
     height: 469px;
     
 }
+
+img#redondo{
+    border-radius: 50%;
+}
